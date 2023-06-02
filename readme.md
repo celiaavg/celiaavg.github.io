@@ -1,4 +1,4 @@
-## (Color Explorer) 
+## (COLOR EXPLORER) 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Color Explorer
 
-**Web:**  url github.io)](https://github.com/celiaavg/celiaavg.github.io
+**Web:**  (https://github.com/celiaavg/celiaavg.github.io)
 
 **Autor:**  Celia Vera Gómez
 
@@ -24,28 +24,32 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 39 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![Run (2)](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/552ffede-7c22-4bb8-b7f4-eaa9b3a3e9fe)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+Primero vemos el teaser, que introuce un poco el mundo y la escena principal donde se va a desarrollar el juego. 
+A continuación, parte del teaser se convierte en menú principal en blucle. En este, podemos enconrtar los siguientes botones: ajustes, galería, créditos y play, que nos llevará al juego.
+Antes de empezar a jugar, se desarrolla un pequeña historia dónde aparecerá el personaje y nos explicará qué hacer. 
+Desde aquí, siguiendo un mapa, pasaremos por tres mundos distintos dónde el personaje debe conseguir los objetos que se indiquen. Finalmente, se llega al último juego, dónde el personsaje clasifica los disitintos objetos, completando la misión; para cerrar aparecerá un video como muestra de que el objetico del juego ha sido conseguido.
+
+![IMG_6008](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/fb7b1996-2e2e-4ee5-9b2a-6770782fd832)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Ilustración_sin_título (1)](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/02a8cd4b-f062-4a92-8189-7b01d6baf75b)
 
 
 
@@ -53,7 +57,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Ilustración_sin_título](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/749eb15c-a01c-4e6c-b81d-abed4fa9e407)
 
 
 
@@ -69,22 +73,16 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque conjuga imágenes sin ningun tipo de relación entre ellas, en un solo diálogo; un mundo con una trama deteminada y una misma metodología.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público infantil 
 
 
 
@@ -94,23 +92,26 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: se desarrollan dos tipos dee juego: de colisiones y de arrastre. En cada escenario, debe salir un cuadro de texto mostrrando con qué debe colisionar el personaje, y dónde se deben arrastrar los objetos contenidos. Al igual que facilito un botón de skip, en caso de fallo del juego. Además, para el movimiento del personaje, añado botones de dirección que pulsar con el mouse en caso de que las teclas fallen.
+- Video añadido en el proyecto:  edición propia del video usando hippani, en el que realizo animaciones de imágenes de otros espacios de mundos fantasiosos y coloridos. Facilito un botón de Return, que debe volver al menú principal. Este último botón, también se encuntra en la galería de fotos, en los ajustes de sonido y en los créditos.
+- Galería de fotos: dispongo botones con forma de flecha que facilitan la dirección.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que el problema principal del proyecto está en las colisiones, pues el personaje choca con distancia al objeto, además al pasar de escena choca erróneamente si usamos las teclas para mover al persnoaje. 
+Otro error importante es la aparición de los cuadros de texto que explican qué se debe de buscar, a veces sale correctamente, y otras no. Al igual que la barra controladora del sonido, que a veces funciona y otras no.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+En un primer contacto con hippani no lo entendía mucho y pensaba que no me gustaría. Al hacer el teaser mi motivación incrementó puesto que empecé a entender a controlar las animaciones y me iba gustando el proceso. Al pasar a la programación de los juegos, volví a pensar que realmente me iba a ser dificil terminar el proyecto. Con la ayuda de los códigos y los ejemplos de Prado, entendí que podía simplicarlo mucho más de lo que esperaba; llega un momento en el que sabes qué quieres decirle al programa y probando se va consiguiendo. 
+
+Me agrada el resultado final, aunque me gustaría que algunas de las funciones no fallasen ocasionalmente. 
+No sabía absolutamente nada del mundo de la programación, he partido desde cero, y aunque en un futuro no me imagino ampliando en este campo, me alegra haber salido de esta asignatura con estos conocimientos básicos. 
+
 
 
 
@@ -120,20 +121,19 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Pixabay
+* Imágenes:  Pinterest
+* Tipografía: Sun Flower 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
+- Procreate
 
 
 
@@ -141,4 +141,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Junio 2023
