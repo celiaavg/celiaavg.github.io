@@ -86,7 +86,6 @@ Este proyecto es interesante porque conjuga imágenes sin ningun tipo de relaci�
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego: se desarrollan dos tipos dee juego: de colisiones y de arrastre. En cada escenario, debe salir un cuadro de texto mostrrando con qué debe colisionar el personaje, y dónde se deben arrastrar los objetos contenidos. Al igual que facilito un botón de skip, en caso de fallo del juego. Además, para el movimiento del personaje, añado botones de dirección que pulsar con el mouse en caso de que las teclas fallen.
 - Video añadido en el proyecto:  edición propia del video usando hippani, en el que realizo animaciones de imágenes de otros espacios de mundos fantasiosos y coloridos. Facilito un botón de Return, que debe volver al menú principal. Este último botón, también se encuntra en la galería de fotos, en los ajustes de sonido y en los créditos.
