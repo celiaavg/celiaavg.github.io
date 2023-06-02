@@ -20,10 +20,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Logotipo** : ![logo 1](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/43d7c802-e7e2-4164-ae5c-0fed4701d444)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
 **Tamaño proyecto:** 39 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
