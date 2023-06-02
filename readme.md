@@ -1,5 +1,4 @@
-## (Color Explorer)
-Color Explorer 
+## (Color Explorer) 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
@@ -8,13 +7,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(Color Explorer)
+**Titulo** : Color Explorer
 
-**Web:**   (url github.io)
+**Web:**  url github.io)](https://github.com/celiaavg/celiaavg.github.io
 
-**Autor:**  (Celia Vera Gómez)
+**Autor:**  Celia Vera Gómez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto está basado en los juegos que solían gustarme en mi infancia, allá por el 2010; que comparados con los de última tendencia, no eran tan fluidos y la estética vintage evocaba a mundos remotos, antiguos. La protagonista es una aventurera exploradora que debe recorrer los distintos mundos para encontrar las pociones que devolverán el color al mundo, después de la catástrofe natural que se lo arrebató.
 
 **Estilo/género:**  juego de fatansía 
 
