@@ -13,13 +13,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Celia Vera Gómez
 
-**Resumen** : Este proyecto está basado en los juegos que solían gustarme en mi infancia, allá por el 2010; que comparados con los de última tendencia, no eran tan fluidos y la estética vintage evocaba a mundos remotos, antiguos. La protagonista es una aventurera exploradora que debe recorrer los distintos mundos para encontrar las pociones que devolverán el color al mundo, después de la catástrofe natural que se lo arrebató.
+**Resumen** : Este proyecto está basado en los juegos que solían gustarme en mi infancia, allá por el 2010; que comparados con los de última tendencia, no eran tan fluidos y la estética vintage evocaba a mundos remotos, antiguos. La protagonista es una aventurera exploradora, que debe recorrer los distintos mundos para encontrar las pociones que devolverán el color al mundo, después de la catástrofe natural que se lo arrebató.
 
 **Estilo/género:**  juego de fatansía 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logo 1](https://github.com/celiaavg/celiaavg.github.io/assets/134588578/43d7c802-e7e2-4164-ae5c-0fed4701d444)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
